@@ -29,7 +29,7 @@ automatically and then you will be prompted to manually edit the files on GitHub
 
 
 ## Test
-Sidney Done
+Jordan Pisaniello
 
 # Forking vs Cloning 
 
