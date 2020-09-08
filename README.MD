@@ -26,3 +26,8 @@ merge it.
 Note: If you put a bunch of code in a branch then you will cause problems.  You need to keep your branches and commits 
 organized because there will be merge conflicts, which means GIT can't figure out what code should be merged 
 automatically and then you will be prompted to manually edit the files on GitHub or on WebStorm.
+
+
+### This is a test to push to the repo
+1. Hello Everyone
+2. Thank you for this session Professor
