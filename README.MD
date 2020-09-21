@@ -23,7 +23,7 @@ merge it.
 9.  Once the code is merged then you need to pull the code by going to VCS->GIT->Pull in webstorm and remember to check the master branch for the pull 
 10. Rinse and repeat steps 7, 8, 9 to do more tasks.
 ## Notes and Comments
-Notes and Comments
+
 
 Note: If you put a bunch of code in a branch then you will cause problems.  You need to keep your branches and commits 
 organized because there will be merge conflicts, which means GIT can't figure out what code should be merged 
